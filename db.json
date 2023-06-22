@@ -1,0 +1,45 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "learn HTML",
+      "text": "I want to know HTML",
+      "state": "done",
+      "todo": "[object Object]"
+    },
+    {
+      "id": 2,
+      "title": "learn CSS",
+      "text": "I want to be a god of CSS",
+      "state": "done",
+      "todo": "[object Object]"
+    },
+    {
+      "id": 3,
+      "title": "learn JavaScript",
+      "text": "I want to master my JS knowledge",
+      "state": "in progress",
+      "todo": "[object Object]"
+    },
+    {
+      "id": 4,
+      "title": "learn React",
+      "text": "I would like to be really good in React",
+      "state": "new",
+      "todo": "[object Object]"
+    },
+    {
+      "id": 5,
+      "title": "Become a Web Developer",
+      "text": "I really want to become a Web Developer in the end",
+      "state": "new",
+      "todo": "[object Object]"
+    },
+    {
+      "id": 1687395210831,
+      "title": "Sleep",
+      "text": "Sleep for 1 whole day :D",
+      "state": "new"
+    }
+  ]
+}
